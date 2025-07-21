@@ -45,4 +45,4 @@ This project contains SQL scripts for managing the database of the Getaway Mansi
 
 ## License
 
-This project
+This project is for educational purpose.
